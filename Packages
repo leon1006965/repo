@@ -1,0 +1,412 @@
+Package: alias20.apache2
+Name: apache2
+Depends: alias20.apr, alias20.apr-util, alias20.pcre2
+Description: Apache HTTP Server
+Maintainer: alias20
+Author: Apache Software Foundation
+Section: Networking
+Architecture: iphoneos-arm64
+Version: 2.4.57
+Installed-Size: 37892
+Filename: debs/alias20.apache2_2.4.57.deb
+Size: 4883500
+MD5sum: 35235eb3742e9f9b86c93eb50af18473
+SHA1: 037f226ae4db95e3f105d61cbec73c3cf3794d28
+SHA256: fd4fd11e2657a3b95e74915b9d89fc8bce2c40db6ff7b5c985c987dae8432677
+Package: com.cureux.cc26
+Name: CC26
+Description: A sleek reimagination of Control Center.
+Maintainer: therealhoodboy
+Author: therealhoodboy
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (<< 18.0)
+Conflicts: com.dvntm.cc18
+Provides: com.cureux.cc26
+Icon: https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 1152
+Filename: debs/com.cureux.cc26_1.0.deb
+Size: 819342
+MD5sum: 389646e2d15b7dae2fe7a389f4a9700e
+SHA1: 3c48f575181c9ca6a18b12063a5acaf04aaceaf5
+SHA256: ce1cc08caf4d54233de84596fed8ad1d6a111569e8454248cf28b88b81603cac
+Package: com.cureux.cc26glass
+Name: CC26 Liquid Glass
+Description: iOS 26-style liquid glass effect for Control Center modules.
+Maintainer: therealhoodboy
+Author: therealhoodboy
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 13.0), firmware (<< 18.0)
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 464
+Filename: debs/com.cureux.cc26glass_1.0.0.deb
+Size: 35692
+MD5sum: 09410ace1e659532aafbb50dfa8eadea
+SHA1: 068fa9be8f530132ed95f33542b1fa54afbff703
+SHA256: c29b1cc110d291668decc272f0256ec11f0717b331ce993069cb58ea578cafeb
+Author: ichitaso
+Maintainer: ichitaso
+Name: HideSerialNumber
+Package: com.ichitaso.hideserialnumber
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Section: Tweaks
+Description: Hide Serial Number in Settings About page.
+Depiction: https://cydia.ichitaso.com/depiction/hidesn.html
+SileoDepiction: https://cydia.ichitaso.com/depiction/hidesn.json
+Homepage: https://cydia.ichitaso.com/depiction/hidesn.html
+dev: ichitaso
+Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
+Icon: https://i.imgur.com/uFWkBXD.png
+Architecture: iphoneos-arm
+Version: 0.0.4
+Installed-Size: 408
+Filename: debs/com.ichitaso.hideserialnumber_0.0.4.deb
+Size: 61516
+MD5sum: 46627006dc4c7d3c3461cfbd12f04c79
+SHA1: 60bd8370a9226c68cd5b2ece455977ca4a616d17
+SHA256: d636f759f4fc4bb62bd451651a5d359b8680cece85951018a447022f4ef8962d
+Package: com.icraze.keepmyjb
+Name: KeepMyJB
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Remove the "Software Update" and "Erase All Content And Settings" tabs in the Settings app!
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
+Version: 1.1
+Installed-Size: 136
+Filename: debs/com.icraze.keepmyjb_1.1.deb
+Size: 3262
+MD5sum: 5eab89b094a6d0549030d942f992055b
+SHA1: 4aee661fd1050c401374ae379486618a57360e8e
+SHA256: 0835b4a7835b599b6d4384f73e9e776ab875565d4b12729f39a597d29ab57b03
+Package: com.lumid.opaboutphone
+Name: OP About Phone
+Description: OxygenOS/ColorOS-style About page for the iOS Settings app.
+Maintainer: Lumid
+Author: Lumid
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Icon: file:///var/jb/Library/PreferenceBundles/OPAboutPhonePrefs.bundle/icon-large.png
+Architecture: iphoneos-arm64
+Version: 1.2.0
+Installed-Size: 556
+Filename: debs/com.lumid.opaboutphone_1.2.0_iphoneos-arm64.deb
+Size: 124880
+MD5sum: fe680a9c86edcb5028dc173e972584b7
+SHA1: efc651196b2390f020d635d4028011e84de19e32
+SHA256: 27aa948e4bfedbf1673a2dd855ee61e6abb0c7eac749caa1bec2587899557025
+Package: com.ngkhoi.26cam-legacy
+Name: 26Cam (Legacy)
+Depends: mobilesubstrate, preferenceloader
+Description: iOS 26 camera style tweak (requires dylv's liquidass for Liquid Glass), currently supports devices between iPhone X and iPhone SE 1st Gen (Rootless).
+Maintainer: ngkhoi
+Author: ngkhoi
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 0.0.2-beta
+Installed-Size: 808
+Filename: debs/com.ngkhoi.26cam-legacy_0.0.2-beta_iphoneos-arm64.deb
+Size: 122312
+MD5sum: 0d765069fd3327c95f90059f2afdb1fd
+SHA1: 24affcbf84e06694749f6f079c8fef1af9a8e26e
+SHA256: d2b02762491e06c97bd5eb873ed17198f7dfc9ad7896a81db96a11ad8df19959
+Package: com.opa334.cranelite
+Name: Crane Lite
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1) | firmware (<<14.0)
+Conflicts: com.opa334.crane, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Architecture: iphoneos-arm
+Description: Multiple containers for one application!
+Maintainer: opa334
+Author: opa334
+Section: Tweaks
+Version: 1.3
+Installed-Size: 2064
+Filename: debs/com.opa334.cranelite_1.3.deb
+Size: 306954
+MD5sum: 7b7f2a82cd02132e2a5d9ea746349ff2
+SHA1: 8049fb4bced600affc77d9e776f93988e61d3e4b
+SHA256: cb918100edff2e968b403d14691305f3797b6244c4fa86e9207f6f8383253220
+Package: com.opa334.trollstorelite
+Name: TrollStore Lite
+Description: TrollStore for jailbroken iOS
+Depends: ldid
+Maintainer: opa334
+Author: opa334
+Section: Applications
+Architecture: iphoneos-arm
+Version: 2.1
+Installed-Size: 608
+Filename: debs/com.opa334.trollstorelite_2.1.deb
+Size: 212488
+MD5sum: 9647bb94987b55d8e3dfb675e6d27be1
+SHA1: 9a9e39b67f973c895a850a257294c406432f0d55
+SHA256: 8b30e87fcee8000450e0d331c736b5d71c650b9f426462b638825443838143dd
+Package: com.ps.returnytmdislikes
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Section: Tweaks
+Maintainer: PoomSmart <ytdislikesreturn@gmail.com>
+Author: PoomSmart <ytdislikesreturn@gmail.com>
+Installed-Size: 222
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Name: Return YouTube Music Dislike
+Description: Bring Back Dislikes On iOS YouTube Music
+Icon: https://img.chariz.cloud/icon/returnytmdislikes/icon@3x.png
+Depiction: https://chariz.com/get/returnytmdislikes
+Tag: compatible_min::ios11.0
+Filename: debs/com.ps.returnytmdislikes_1.2.0.deb
+Size: 22560
+MD5sum: a472e0f7b052da3e77aded3caa47b8d5
+SHA1: 8141777ccf65ae4fe51138f9bacf11f752ca55e5
+SHA256: 4dc8465f7609eb77b0378f863f45e6172ae6e2d77752e37ea13bf8979551ea52
+Package: com.rileytestut.altdaemon
+Name: AltDaemon
+Depends: firmware (>= 12.2)
+Architecture: iphoneos-arm
+Description: AltDaemon allows AltStore to install and refresh apps without a computer.
+Maintainer: Riley Testut <support@altstore.io>
+Author: Riley Testut <support@altstore.io>
+Section: System
+Version: 1.0.1
+Icon: https://cdn.chariz.cloud/icon/altdaemon/icon@3x.png
+Depiction: https://chariz.com/get/altdaemon
+Tag: compatible_min::ios12.2
+Installed-Size: 2560
+Filename: debs/com.rileytestut.altdaemon_1.0.1.deb
+Size: 597754
+MD5sum: 86b026f3f838e0ca193b086898e7152a
+SHA1: ec653b6067c8dd8daa2d1fad29ebcbb0c054bbbd
+SHA256: e30852d1e922dbf83222dd1a35d726491f19ff0f25a4415846638a4f99eac695
+Package: com.ryannair05.cask3
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Section: Tweaks
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Installed-Size: 860
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Replaces: com.ryannair05.cask2
+Name: Cask 3
+Description: Animated table scrolling
+Icon: https://img.chariz.cloud/icon/cask-3/icon@3x.png
+Depiction: https://chariz.com/get/cask-3
+Tag: compatible_min::ios14.0
+Filename: debs/com.ryannair05.cask3_1.0.1.deb
+Size: 318630
+MD5sum: 0de69376fb7922b2176b2aac68f88377
+SHA1: 728ac9d8a1e0e1b8c0753b5f9ca9cc7880a309ab
+SHA256: 3015a266f5164ed6d94803c7035048970959f46eee0095c3f34165806806a4e6
+Package: com.serena.AppIndex
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Applications
+Maintainer: Serena <hanzikashi@gmail.com>
+Author: Serena <hanzikashi@gmail.com>
+Installed-Size: 1677
+Name: AppIndex
+Description: An Application to view and manage Applications.
+Icon: https://img.chariz.cloud/icon/appindex/icon@3x.png
+Depiction: https://chariz.com/get/appindex
+Tag: compatible_min::ios13.0
+Filename: debs/com.serena.AppIndex_1.0.deb
+Size: 779088
+MD5sum: e70da66132c076b86a818c80a896877a
+SHA1: d59a98a0c57455ce8ecd93c4d8a43541a3f23a68
+SHA256: 07355213b69d9ed5256a96f38f8491c3be991a38b0bdbd27979a37055ee534b1
+Package: com.teslaman3092.popoutbuttons
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Section: Tweaks
+Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Name: PopOutButtons
+Description: PopOutButtons bring the iOS 18 buttons popouts to ios 13-17
+Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
+Depiction: https://chariz.com/get/popoutbuttons
+Tag: compatible_min::ios13.0
+Filename: debs/com.teslaman3092.popoutbuttons_1.0.0.deb
+Size: 54168
+MD5sum: 943701c41013f68e2905a322c4844736
+SHA1: 474a6e5914fd803d2f64a630ba2cd8c6749ede19
+SHA256: 305f79709e546153e5c8bea9acb3da45388f7ed5fdcfd06917d2d326e9c24d67
+Package: com.wrp1002.cornbar
+Name: CornBar
+Description: Change your HomeBar into corn!
+Maintainer: Wes <wes.hamster@gmail.com>
+Author: Wes <wes.hamster@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis (>= 1.2)
+Architecture: iphoneos-arm
+Version: 1.1.0
+Installed-Size: 544
+Filename: debs/com.wrp1002.cornbar_1.1.0.deb
+Size: 119224
+MD5sum: ebb3e1a6353fc4a5d75ddbb37d792770
+SHA1: 4f38a3f941074901afa4ccc6f703189085ce359d
+SHA256: b01d1e22f0b9035f0cddc0d99954bf2057bfb7a4e1833de26b0845692fef9992
+Package: com.wrp1002.explosiveicons
+Name: ExplosiveIcons
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Wes <wes.hamster@gmail.com>
+Author: Wes <wes.hamster@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.2)
+Architecture: iphoneos-arm
+Version: 1.1.0
+Installed-Size: 596
+Filename: debs/com.wrp1002.explosiveicons_1.1.0.deb
+Size: 47706
+MD5sum: 5c84bf1fd22fe2fe35900775f69ea24e
+SHA1: 1892ba56bf73f8f66f9fcbe27459e86733b8914b
+SHA256: e01c9620844789ce703f3c70d892eaf21a397cce2a4bcd157bc6c44de125b789
+Package: com.wrp1002.flashlightsettings
+Name: FlashlightSettings
+Description: Useful settings for the flashlight!
+Maintainer: Wes <wes.hamster@gmail.com>
+Author: Wes <wes.hamster@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Version: 1.1.0
+Installed-Size: 1932
+Filename: debs/com.wrp1002.flashlightsettings_1.1.0.deb
+Size: 659342
+MD5sum: 5cbf8a4414ecdfc0affe3936207b0a19
+SHA1: c797a5d160a34b8f51adcd15cd9b423eeb77148b
+SHA256: 03560cae8b918a38bc88d0b7df135c1b5b96eb573a36a46d2f9fe4785c73421a
+Package: com.wrp1002.nosettingsbadge
+Name: NoSettingsBadge
+Description: Remove settings notification badge!
+Maintainer: Wes <wes.hamster@gmail.com>
+Author: Wes <wes.hamster@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Version: 1.1.0
+Installed-Size: 280
+Filename: debs/com.wrp1002.nosettingsbadge_1.1.0.deb
+Size: 6950
+MD5sum: a17aaa7c4b6b86aa0517b6343148af6f
+SHA1: d8cb5db722b63630be639e143ab31203f05b5824
+SHA256: b464218ec98537afa6c7dae31eacc45d4c8758836ba47d0b6f1e80ff90d7bbdc
+Package: com.wrp1002.tvlock
+Name: TVLock
+Description: Awesome TV turning off animation for locking!
+Maintainer: Wes <wes.hamster@gmail.com>
+Author: Wes <wes.hamster@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.0)
+Architecture: iphoneos-arm64
+Version: 1.2.0
+Installed-Size: 408
+Filename: debs/com.wrp1002.tvlock_1.2.0.deb
+Size: 30960
+MD5sum: 4feae92018eb1ddbf19f5367fe1c035a
+SHA1: 3065cd971455f2ccf202828b768c5369bedc80c1
+SHA256: c06452b40bad54560389d68cdd73e43c1a888d342a7ac1142c714c17b2455318
+Package: jp.akusio.milkyway4
+Name: MilkyWay4-rootless
+Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
+Architecture: iphoneos-arm64
+Description: multitasking for iOS15 rootless.
+Depiction: https://akusio.github.io/descriptions/milkyway4/index.html
+Maintainer: @akusio_RR
+Author: @akusio_RR
+Section: Tweaks
+Version: 0.1.0
+Installed-Size: 3480
+Filename: debs/jp.akusio.milkyway4_0.1.0.deb
+Size: 1306376
+MD5sum: 4b94876dbdc5a7fce98a68a39f19fc3d
+SHA1: dd7ab336d485e9e78e7df464e2cb99ca473e65aa
+SHA256: 35b0f491379afefcb4f2ad26cff3cfd07f751dacd8eab2b93929d2bb7ae1e19b
+Package: jp.dcsyhi.zetsu
+Version: 1.6
+Architecture: iphoneos-arm64
+Section: Tweaks
+Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Installed-Size: 11675
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
+Name: Zetsu
+Description: Multitasking on iOS15 - iOS16.
+Icon: https://img.chariz.cloud/icon/zetsu/icon@3x.png
+Depiction: https://chariz.com/get/zetsu
+Tag: compatible_min::ios15.0
+Filename: debs/jp.dcsyhi.zetsu_1.6.deb
+Size: 10086968
+MD5sum: a538778ecb64da9908bd50b63e6cf92b
+SHA1: 2d17980726a31a175fec0d0e480ae81727f4d339
+SHA256: 9388a0871e8de832fe222b39db7a373be298db30bbbc915bce6803d20e8cd7df
+Package: com.yourcompany.liquidsiri
+Name: LiquidSiri
+Depends: mobilesubstrate
+Description: Make your dumb siri look smart! Compatible with iOS 14.0 - 16.x.
+Maintainer: Thijs mussig
+Author: Thijs mussig
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.1.0-1+debug
+Installed-Size: 2600
+Filename: debs/LiquidSiri-1.1.1-rootless.deb
+Size: 939052
+MD5sum: 54bb8c88b65d61745ed8a80a48834f2b
+SHA1: 9dd3c36cc93eeedc0a05bb835e344df0621d0e39
+SHA256: a319f550808fc7c235d50570b6b8bbfeb03b8e68a28f59928e7ec83626396d78
+Package: me.lau.atria
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Section: Tweaks
+Maintainer: ren7995 <lau7995ren@gmail.com>
+Author: ren7995 <lau7995ren@gmail.com>
+Installed-Size: 886
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.alderis (>= 1.1)
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro
+Name: Atria
+Description: A proper homescreen layout editor for iOS 13-16
+Icon: https://img.chariz.cloud/icon/atria/icon@3x.png
+Depiction: https://chariz.com/get/atria
+Tag: compatible_min::ios13.0
+Filename: debs/me.lau.atria_1.4.0.deb
+Size: 236638
+MD5sum: cb512c92e04022ee687a2a2f7465a95d
+SHA1: 279d65843d8945da7cd69dfd56403b447c497e9d
+SHA256: 6cb457de58a9eab87c965a8c2cd16d520dd0c6e6d445b47faacd75d4ea67c706
+Package: com.vivostyle.tweak
+Name: VivoStyle
+Description: vivo OriginOS-style gyroscope "Flip Card" lock screen wallpapers — tilt to cross-fade between your own photos, with parallax depth. Configurable in Settings.
+Maintainer: huy
+Author: huy
+Section: Tweaks
+Depends: ellekit, preferenceloader, firmware (>= 15.0)
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 412
+Filename: debs/vivostyle_rootless.deb
+Size: 30270
+MD5sum: 98f64294f64014c11814d38c7bf6be8d
+SHA1: 5cc0ad9d63c11436a70448e3dfe24a09373242dd
+SHA256: b1ba7078635714224775be6aad382f774741330bcdd4e77197401c3951021f33
+Package: weeb.lillie.youtubedislikesreturn
+Version: 1.14.0
+Architecture: iphoneos-arm64
+Section: Tweaks
+Maintainer: PoomSmart and kirb <ytdislikesreturn@gmail.com>
+Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
+Installed-Size: 239
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Name: Return YouTube Dislike
+Description: Brings Back Dislikes On iOS YouTube
+Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
+Depiction: https://chariz.com/get/return-youtube-dislike
+Tag: compatible_min::ios11.0
+Filename: debs/weeb.lillie.youtubedislikesreturn_1.14.0.deb
+Size: 26790
+MD5sum: b1ae2effdece255c0e3d8f01ef8fa96c
+SHA1: 66cfc34e86f20b4fe5073412c2c678b6e9ed967a
+SHA256: 49fbccfc7d97ca19f9e9c77f2584927e6ceb0a8c52fe5b64d813d49679aee064
