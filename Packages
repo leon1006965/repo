@@ -69,6 +69,24 @@ SHA1: 068fa9be8f530132ed95f33542b1fa54afbff703
 SHA256: c29b1cc110d291668decc272f0256ec11f0717b331ce993069cb58ea578cafeb
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.cureux.cc26glass.json
 
+Package: com.galaxys21tech.overlap
+Name: Overlap
+Description: Lets app open and close animations play at the same time. When you tap another app while the closing animation is still playing, it no longer gets cut off — both animations run together.
+Maintainer: galaxys21tech
+Author: galaxys21tech
+Section: Tweaks
+Depends: ellekit (>= 0.4), firmware (>= 15.0)
+Icon: https://leon1006965.github.io/repo/CydiaIcon.png
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 200
+Filename: debs/com.galaxys21tech.overlap_1.0.0_iphoneos-arm64.deb
+Size: 6906
+MD5sum: 12fe4f1229d09f7ec6bffb31351045fe
+SHA1: 7d9e6b910e2dbac9a3b97dc8f9a4ecbb23effde3
+SHA256: fd78f47b1c1c55b8f9329dc2d646e3f76f05b6969b228994613ad0e4adda2491
+SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.overlap.json
+
 Author: ichitaso
 Maintainer: ichitaso
 Name: HideSerialNumber
