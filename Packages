@@ -78,13 +78,13 @@ Section: Tweaks
 Depends: ellekit (>= 0.4), firmware (>= 15.0)
 Icon: https://leon1006965.github.io/repo/CydiaIcon.png
 Architecture: iphoneos-arm64
-Version: 1.0.0
+Version: 1.0.1
 Installed-Size: 200
-Filename: debs/com.galaxys21tech.overlap_1.0.0_iphoneos-arm64.deb
-Size: 6906
-MD5sum: 12fe4f1229d09f7ec6bffb31351045fe
-SHA1: 7d9e6b910e2dbac9a3b97dc8f9a4ecbb23effde3
-SHA256: fd78f47b1c1c55b8f9329dc2d646e3f76f05b6969b228994613ad0e4adda2491
+Filename: debs/com.galaxys21tech.overlap_1.0.1_iphoneos-arm64.deb
+Size: 8088
+MD5sum: 0c2dea8668973dbaa158526abfa8519f
+SHA1: 1ced3de1cc5b50ffb458a2fe60d6ec3a0fdca530
+SHA256: 4a9e5f472d0d681a7ea524f9eca83f5057a61d41a9e7c55248efb531583ca26f
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.overlap.json
 
 Author: ichitaso

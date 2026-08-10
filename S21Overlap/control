@@ -1,6 +1,6 @@
 Package: com.galaxys21tech.overlap
 Name: Overlap
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Description: Lets app open and close animations play at the same time. When you tap another app while the closing animation is still playing, it no longer gets cut off — both animations run together.
 Maintainer: galaxys21tech
