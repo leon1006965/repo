@@ -1,0 +1,46 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "tintColor": "#e94560",
+  "headerImage": "https://img.chariz.cloud/icon/cask-3/icon@3x.png",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Animated table scrolling",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Information"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Author",
+          "text": "Ryan Nair <ryannairtweaks@gmail.com>"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.0.1"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Package",
+          "text": "com.ryannair05.cask3"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Section",
+          "text": "Tweaks"
+        }
+      ]
+    }
+  ]
+}

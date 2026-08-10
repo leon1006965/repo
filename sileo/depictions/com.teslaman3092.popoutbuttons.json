@@ -1,0 +1,46 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "tintColor": "#e94560",
+  "headerImage": "https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "PopOutButtons bring the iOS 18 buttons popouts to ios 13-17",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Information"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Author",
+          "text": "tesla_man <computerman939+POBsupport@gmail.com>"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.0.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Package",
+          "text": "com.teslaman3092.popoutbuttons"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Section",
+          "text": "Tweaks"
+        }
+      ]
+    }
+  ]
+}

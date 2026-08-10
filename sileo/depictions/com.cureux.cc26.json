@@ -1,0 +1,46 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "tintColor": "#e94560",
+  "headerImage": "https://raw.githubusercontent.com/therealhoodboy/coreux/7cef61c0b96f05e285d17d030f9135c4e951e420/assets/tweak-icons/cc26.png",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "A sleek reimagination of Control Center.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Information"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Author",
+          "text": "therealhoodboy"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Package",
+          "text": "com.cureux.cc26"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Section",
+          "text": "Tweaks"
+        }
+      ]
+    }
+  ]
+}

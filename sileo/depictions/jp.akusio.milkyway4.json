@@ -1,0 +1,46 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "tintColor": "#e94560",
+  "headerImage": "",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "multitasking for iOS15 rootless.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Information"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Author",
+          "text": "@akusio_RR"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "0.1.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Package",
+          "text": "jp.akusio.milkyway4"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Section",
+          "text": "Tweaks"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "tintColor": "#e94560",
+  "headerImage": "",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "TrollStore for jailbroken iOS",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Information"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Author",
+          "text": "opa334"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "2.1"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Package",
+          "text": "com.opa334.trollstorelite"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Section",
+          "text": "Applications"
+        }
+      ]
+    }
+  ]
+}

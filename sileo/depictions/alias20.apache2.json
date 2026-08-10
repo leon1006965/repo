@@ -1,0 +1,46 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "tintColor": "#e94560",
+  "headerImage": "",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Apache HTTP Server",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Information"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Author",
+          "text": "Apache Software Foundation"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "2.4.57"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Package",
+          "text": "alias20.apache2"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Section",
+          "text": "Networking"
+        }
+      ]
+    }
+  ]
+}
