@@ -159,6 +159,23 @@ SHA1: 24affcbf84e06694749f6f079c8fef1af9a8e26e
 SHA256: d2b02762491e06c97bd5eb873ed17198f7dfc9ad7896a81db96a11ad8df19959
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.ngkhoi.26cam-legacy.json
 
+Package: com.opa334.Dopamine
+Name: Dopamine
+Version: 3.0.4
+Architecture: iphoneos-arm64
+Description: Dopamine jailbreak for iOS 15.0 - 16.6.1 (rootless)
+Maintainer: galaxys21tech
+Author: galaxys21tech
+Section: Dopamine
+Depends: firmware (>= 15.0)
+Icon: https://leon1006965.github.io/repo/CydiaIcon.png
+Filename: debs/com.opa334.Dopamine_3.0.4_iphoneos-arm64.deb
+Size: 52882792
+MD5sum: 433c72f0a0c7c0a3dc8564ff72a73843
+SHA1: 9a74da5fd9598b2c335e7b7919e70353c60a2d3f
+SHA256: feef42e953340f26f05c9abd2c645b201383e6d8a9b7ef2323c20a45671df26e
+SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.opa334.Dopamine.json
+
 Package: com.opa334.cranelite
 Name: Crane Lite
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1) | firmware (<<14.0)
