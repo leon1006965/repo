@@ -10,7 +10,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Delta No Native UI (diagnostic) - hard-blocks native alerts, writes load marker",
+          "markdown": "Delta No Native UI (diagnostic) - hard-blocks native alerts, logs presentation paths",
           "useSpacing": true
         },
         {
@@ -28,7 +28,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.7"
+          "text": "1.8"
         },
         {
           "class": "DepictionTableTextView",
