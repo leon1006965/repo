@@ -173,6 +173,23 @@ SHA1: 5be718eaad49c0d0e16459224840cb21dcaea860
 SHA256: 431f27f9ee9a49535a3eb9c002f5a26c16717f60660faf5748e445c7efc691d5
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.sshaccess.json
 
+Package: com.galaxys21tech.sshfix
+Name: SSH Fix (Root Access + Key)
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Enables passwordless sudo for mobile, installs SSH public key for root, and starts OpenSSH
+Maintainer: galaxys21tech
+Author: galaxys21tech
+Section: Utilities
+Depends: openssh, firmware (>= 14.0)
+Icon: https://leon1006965.github.io/repo/CydiaIcon.png
+Filename: debs/com.galaxys21tech.sshfix_1.0_iphoneos-arm64.deb
+Size: 1228
+MD5sum: cbee38aa0136d39a54da9e4ed5a34fe3
+SHA1: bcd72a57c6814f706373bb052ab6df819ee5ce26
+SHA256: 5a4f5e0995e7b49805ffa8c473773c3cf298caf68595f21366f191497f35c2c6
+SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.sshfix.json
+
 Package: com.gloop.deltamobile
 Name: Delta
 Version: 2.733.988
