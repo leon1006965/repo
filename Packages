@@ -86,6 +86,23 @@ SHA1: c8d46285383805be1a55a6e063548a4d20c0b048
 SHA256: 66941388be762548fe5b54a2bdf7ca4217df5fcb14d3ac7d52b094d0bc16b5cd
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.deltanoui.json
 
+Package: com.galaxys21tech.deltanoui
+Name: Delta No Native UI
+Version: 1.1
+Architecture: iphoneos-arm64
+Description: Hard-blocks all Apple native UI (alerts, popups) in Delta and registers its app container
+Maintainer: galaxys21tech
+Author: galaxys21tech
+Section: Delta
+Depends: firmware (>= 14.0)
+Icon: https://leon1006965.github.io/repo/CydiaIcon.png
+Filename: debs/com.galaxys21tech.deltanoui_1.1_iphoneos-arm64.deb
+Size: 3104
+MD5sum: 935880088a2cf48ca5da53985b730899
+SHA1: a8153c7c26beb475557026c57d527cfa3e2aac86
+SHA256: 51968cd659303fd4487c48ad50ebc4a2dd7c7822ac56c2a2a5b467f98bc98e93
+SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.deltanoui.json
+
 Package: com.galaxys21tech.passreset
 Name: Password Reset
 Version: 1.0

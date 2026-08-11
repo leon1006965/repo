@@ -10,7 +10,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Blocks Apple native alerts (update popup) in Delta and registers its app container",
+          "markdown": "Hard-blocks all Apple native UI (alerts, popups) in Delta and registers its app container",
           "useSpacing": true
         },
         {
@@ -28,7 +28,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.0"
+          "text": "1.1"
         },
         {
           "class": "DepictionTableTextView",
