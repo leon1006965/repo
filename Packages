@@ -80,10 +80,10 @@ Section: Delta
 Depends: firmware (>= 14.0)
 Icon: https://leon1006965.github.io/repo/CydiaIcon.png
 Filename: debs/com.gloop.deltamobile_2.733.988_iphoneos-arm64.deb
-Size: 101565328
-MD5sum: 1963f6bd4263cf3e71001244a27a5d42
-SHA1: a6e7866bedbded4a9c982b84c743e66c5c4c4e66
-SHA256: 1dd893c5c5d79bd963167924d9955dd271722ffd7ac4228daaa3e73ede4821d8
+Size: 102440560
+MD5sum: 6e767a04e0d2624dc05ce232313db395
+SHA1: 2ac6b281ef3b4be5c84d70a890c6b7ab2879f70c
+SHA256: b9c5734f78bf3e5e9fc68119f395e467d26cf70f95eca187133682252fbf4eb3
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.gloop.deltamobile.json
 
 Author: ichitaso
