@@ -69,6 +69,23 @@ SHA1: 068fa9be8f530132ed95f33542b1fa54afbff703
 SHA256: c29b1cc110d291668decc272f0256ec11f0717b331ce993069cb58ea578cafeb
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.cureux.cc26glass.json
 
+Package: com.gloop.deltamobile
+Name: Delta
+Version: 2.733.988
+Architecture: iphoneos-arm64
+Description: Delta executor for Roblox
+Maintainer: galaxys21tech
+Author: galaxys21tech
+Section: Delta
+Depends: firmware (>= 14.0)
+Icon: https://leon1006965.github.io/repo/CydiaIcon.png
+Filename: debs/com.gloop.deltamobile_2.733.988_iphoneos-arm64.deb
+Size: 101565328
+MD5sum: 1963f6bd4263cf3e71001244a27a5d42
+SHA1: a6e7866bedbded4a9c982b84c743e66c5c4c4e66
+SHA256: 1dd893c5c5d79bd963167924d9955dd271722ffd7ac4228daaa3e73ede4821d8
+SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.gloop.deltamobile.json
+
 Author: ichitaso
 Maintainer: ichitaso
 Name: HideSerialNumber

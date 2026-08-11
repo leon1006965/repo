@@ -1,0 +1,46 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "tintColor": "#e94560",
+  "headerImage": "https://leon1006965.github.io/repo/CydiaIcon.png",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Delta executor for Roblox",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Information"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Author",
+          "text": "galaxys21tech"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "2.733.988"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Package",
+          "text": "com.gloop.deltamobile"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Section",
+          "text": "Delta"
+        }
+      ]
+    }
+  ]
+}
