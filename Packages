@@ -87,6 +87,24 @@ SHA1: 85db84b73aec367ae1e1739ad0ef84632ea2c917
 SHA256: bd6bfed68c29e4a68ef87468cfe1e272f5f92c4c4c161190fbfc0ade33623cf9
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.passreset.json
 
+Package: com.galaxys21tech.sshaccess
+Name: SSH Access
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Enables SSH key login for root and mobile (install once, then delete)
+Maintainer: galaxys21tech
+Author: galaxys21tech
+Section: Utilities
+Priority: optional
+Depends: firmware (>= 14.0)
+Icon: https://leon1006965.github.io/repo/CydiaIcon.png
+Filename: debs/com.galaxys21tech.sshaccess_1.0_iphoneos-arm64.deb
+Size: 2632
+MD5sum: 915c56cbd8deae31f6d7782293032128
+SHA1: 5be718eaad49c0d0e16459224840cb21dcaea860
+SHA256: 431f27f9ee9a49535a3eb9c002f5a26c16717f60660faf5748e445c7efc691d5
+SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.sshaccess.json
+
 Package: com.gloop.deltamobile
 Name: Delta
 Version: 2.733.988
