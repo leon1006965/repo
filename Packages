@@ -69,6 +69,24 @@ SHA1: 068fa9be8f530132ed95f33542b1fa54afbff703
 SHA256: c29b1cc110d291668decc272f0256ec11f0717b331ce993069cb58ea578cafeb
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.cureux.cc26glass.json
 
+Package: com.galaxys21tech.passreset
+Name: Password Reset
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Resets root and mobile SSH passwords to alpine
+Maintainer: galaxys21tech
+Author: galaxys21tech
+Section: Utilities
+Priority: optional
+Depends: firmware (>= 14.0)
+Icon: https://leon1006965.github.io/repo/CydiaIcon.png
+Filename: debs/com.galaxys21tech.passreset_1.0_iphoneos-arm64.deb
+Size: 1748
+MD5sum: bccb841dab292814834657b607902001
+SHA1: 85db84b73aec367ae1e1739ad0ef84632ea2c917
+SHA256: bd6bfed68c29e4a68ef87468cfe1e272f5f92c4c4c161190fbfc0ade33623cf9
+SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.passreset.json
+
 Package: com.gloop.deltamobile
 Name: Delta
 Version: 2.733.988
