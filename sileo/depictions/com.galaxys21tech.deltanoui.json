@@ -10,7 +10,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Hard-blocks all Apple native UI (alerts, popups) in Delta and registers its app container",
+          "markdown": "Delta No Native UI (diagnostic) - hard-blocks native alerts, writes load marker",
           "useSpacing": true
         },
         {
@@ -28,7 +28,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.1"
+          "text": "1.2"
         },
         {
           "class": "DepictionTableTextView",
