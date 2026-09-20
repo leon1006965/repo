@@ -87,9 +87,8 @@ for deb in sorted(os.listdir(debs_dir)):
         f["Icon"] = icon
 
     dep_url = f"{repo_url}/{dep_dir}/{pkg}.json"
+    f["Depiction"] = dep_url
     f["SileoDepiction"] = dep_url
-    if "Depiction" in f and "SileoDepiction" in f:
-        f.pop("Depiction", None)
 
     name = f.get("Name", pkg)
     author = f.get("Author", f.get("Maintainer", "Unknown"))
