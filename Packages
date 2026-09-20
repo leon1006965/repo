@@ -60,10 +60,10 @@ Section: Applications
 Depends: firmware (>= 15.0)
 Installed-Size: 830
 Filename: debs/com.apneatrainer.app_1.0_iphoneos-arm64.deb
-Size: 121740
-MD5sum: 8ddd2b8073310a8e271691b832ff4eee
-SHA1: f3b0e4d3d387bd4a0f06720c1f57357bf7250f8f
-SHA256: 3cc5e3ccbf1e8b10da2f702eb9a9d6ea395cf8bff5b0e4c3a46ae2e1fc8d4e63
+Size: 122128
+MD5sum: 46e705bd99dbda414427a4d57dfe135d
+SHA1: c2dc237e158a93d5aedfbf92317525985a1445c0
+SHA256: 7537c6d156f4bd9d582f69f229ff94f22d9702efbfa15dfbfd163c6238ab3af3
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.apneatrainer.app.json
 
 Package: com.aqua.gestalt
