@@ -137,6 +137,13 @@ for deb in sorted(os.listdir(debs_dir)):
     entry = "\n".join(f"{k}: {v}" for k, v in f.items())
     entries.append(entry)
 
+    if f.get("Architecture", "") == "iphoneos-arm64":
+        import copy
+        f32 = copy.deepcopy(f)
+        f32["Architecture"] = "iphoneos-arm"
+        entry32 = "\n".join(f"{k}: {v}" for k, v in f32.items())
+        entries.append(entry32)
+
 with open("Packages", "w") as fh:
     fh.write("\n\n".join(entries) + "\n")
 
