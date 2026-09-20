@@ -2,7 +2,7 @@
   "minVersion": "0.1",
   "class": "DepictionTabView",
   "tintColor": "#e94560",
-  "headerImage": "https://leon1006965.github.io/repo/CydiaIcon.png",
+  "headerImage": "",
   "tabs": [
     {
       "class": "DepictionStackView",

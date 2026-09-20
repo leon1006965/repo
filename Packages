@@ -49,6 +49,40 @@ SHA1: 037f226ae4db95e3f105d61cbec73c3cf3794d28
 SHA256: fd4fd11e2657a3b95e74915b9d89fc8bce2c40db6ff7b5c985c987dae8432677
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/alias20.apache2.json
 
+Package: com.apneatrainer.app
+Name: ApneaTrainer
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Apnea breath training app
+Maintainer: galaxys21tech
+Author: galaxys21tech
+Section: Applications
+Depends: firmware (>= 15.0)
+Installed-Size: 830
+Filename: debs/com.apneatrainer.app_1.0_iphoneos-arm64.deb
+Size: 121496
+MD5sum: aa2a4f1ed2f2263f958c60077718fdcf
+SHA1: 560e5c6659af92750fa21029afe3b8c0a217b6ce
+SHA256: 0c0ba8fd1d369781686b48f1433c56f4de1508f6c751e6d9a688edd5f07f7b2b
+SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.apneatrainer.app.json
+
+Package: com.aqua.gestalt
+Name: Aqua
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Aqua app
+Maintainer: galaxys21tech
+Author: galaxys21tech
+Section: Applications
+Depends: firmware (>= 17.0)
+Installed-Size: 1800
+Filename: debs/com.aqua.gestalt_1.0.0_iphoneos-arm64.deb
+Size: 276652
+MD5sum: c0e598efe6f90357685013eb701395cf
+SHA1: ebbdccf1ef7b271a7b35b5cf5e5b179c972f172a
+SHA256: 2f36aa3f871a605d7cb8570c67fb67aca155426bb79dfdd31dab8be8c1e09261
+SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.aqua.gestalt.json
+
 Package: com.cureux.cc26
 Name: CC26
 Description: A sleek reimagination of Control Center.
@@ -87,7 +121,7 @@ SHA256: c29b1cc110d291668decc272f0256ec11f0717b331ce993069cb58ea578cafeb
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.cureux.cc26glass.json
 
 Package: com.galaxys21tech.sshfix
-Name: Passwordless Sudo + OpenSSH
+Name: SSH Fix (Root Access + Key)
 Version: 1.0
 Architecture: iphoneos-arm64
 Description: Enables passwordless sudo for mobile, installs SSH public key for root, and starts OpenSSH
@@ -533,37 +567,3 @@ MD5sum: b1ae2effdece255c0e3d8f01ef8fa96c
 SHA1: 66cfc34e86f20b4fe5073412c2c678b6e9ed967a
 SHA256: 49fbccfc7d97ca19f9e9c77f2584927e6ceb0a8c52fe5b64d813d49679aee064
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/weeb.lillie.youtubedislikesreturn.json
-
-Package: com.apneatrainer.app
-Name: ApneaTrainer
-Version: 1.0
-Architecture: iphoneos-arm64
-Description: Apnea breath training app
-Maintainer: galaxys21tech
-Author: galaxys21tech
-Section: Applications
-Depends: firmware (>= 15.0)
-Icon: https://leon1006965.github.io/repo/CydiaIcon.png
-Filename: apps/ApneaTrainer.ipa
-Size: 187323
-MD5sum: bd5bd5b0707472667127ef1f18062d18
-SHA1: 4261a8d39cb1f1cf9748d579a54bff5425c6c2ab
-SHA256: 4bf772b27a5533952439417817b5b2177afd6a5b1f44a332b17abc4cc3749c94
-SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.apneatrainer.app.json
-
-Package: com.aqua.gestalt
-Name: Aqua
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Description: Aqua app
-Maintainer: galaxys21tech
-Author: galaxys21tech
-Section: Applications
-Depends: firmware (>= 17.0)
-Icon: https://leon1006965.github.io/repo/CydiaIcon.png
-Filename: apps/Aqua.ipa
-Size: 411165
-MD5sum: d164c39a21254d5b79e2ad5249ba472d
-SHA1: e2a3faa147f83bd45f4978e8eddc3a5973671545
-SHA256: be098f8a2e01332b6c2dc786bd32e18a922472d5f4cc17cf0856fbf528fb5938
-SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.aqua.gestalt.json
