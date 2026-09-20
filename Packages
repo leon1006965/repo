@@ -60,10 +60,10 @@ Section: Applications
 Depends: firmware (>= 15.0)
 Installed-Size: 830
 Filename: debs/com.apneatrainer.app_1.0_iphoneos-arm64.deb
-Size: 121496
-MD5sum: aa2a4f1ed2f2263f958c60077718fdcf
-SHA1: 560e5c6659af92750fa21029afe3b8c0a217b6ce
-SHA256: 0c0ba8fd1d369781686b48f1433c56f4de1508f6c751e6d9a688edd5f07f7b2b
+Size: 121740
+MD5sum: 8ddd2b8073310a8e271691b832ff4eee
+SHA1: f3b0e4d3d387bd4a0f06720c1f57357bf7250f8f
+SHA256: 3cc5e3ccbf1e8b10da2f702eb9a9d6ea395cf8bff5b0e4c3a46ae2e1fc8d4e63
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.apneatrainer.app.json
 
 Package: com.aqua.gestalt
@@ -77,10 +77,10 @@ Section: Applications
 Depends: firmware (>= 17.0)
 Installed-Size: 1800
 Filename: debs/com.aqua.gestalt_1.0.0_iphoneos-arm64.deb
-Size: 276652
-MD5sum: c0e598efe6f90357685013eb701395cf
-SHA1: ebbdccf1ef7b271a7b35b5cf5e5b179c972f172a
-SHA256: 2f36aa3f871a605d7cb8570c67fb67aca155426bb79dfdd31dab8be8c1e09261
+Size: 276920
+MD5sum: 5bf8cbb69b4e7b1ace991760eee463ce
+SHA1: 19d1bdab2d5417151c59afd658539e7e3f09f522
+SHA256: 78a783949dc1bd30af616b46d79c98952ba37333ae699d245a102d543ad0dc36
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.aqua.gestalt.json
 
 Package: com.cureux.cc26
