@@ -57,13 +57,15 @@ Description: Apnea breath training app
 Maintainer: galaxys21tech
 Author: galaxys21tech
 Section: Applications
+Priority: optional
 Depends: firmware (>= 15.0)
+Icon: https://leon1006965.github.io/repo/CydiaIcon.png
 Installed-Size: 830
 Filename: debs/com.apneatrainer.app_1.0_iphoneos-arm64.deb
-Size: 122544
-MD5sum: e0cc480c2038c4fb020d3731099026dd
-SHA1: f47a43c123827e7eebef805b8690141c9405e8aa
-SHA256: 3524cf3d47d38390d2908f1e8eafee9cae34cf65e47595b70c0d446293f074df
+Size: 948
+MD5sum: 8d6bfd773fe9281159d22ecfdb22dcc8
+SHA1: 21c63d2c9b6639fd2c703dafe5ab81bff1ef5ac4
+SHA256: 4bb1ec3bcd05d1e739deff43584160a4971e14fcddb78027bd0843627559556e
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.apneatrainer.app.json
 
 Package: com.aqua.gestalt
