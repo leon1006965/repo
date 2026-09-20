@@ -15,6 +15,23 @@ SHA1: 9dd3c36cc93eeedc0a05bb835e344df0621d0e39
 SHA256: a319f550808fc7c235d50570b6b8bbfeb03b8e68a28f59928e7ec83626396d78
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.yourcompany.liquidsiri.json
 
+Package: com.hoanganh.unlockwave
+Name: Unlock Wave
+Description: Exact lock-screen-to-home-screen wave from the supplied HTML prototype.
+Maintainer: Hoang Anh
+Author: Hoang Anh
+Section: Tweaks
+Depends: firmware (>= 15.0), ellekit (>= 1.0), preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.4.5
+Installed-Size: 376
+Filename: debs/UnlockWave_1.4.5_rootless.deb
+Size: 18776
+MD5sum: 5729ed193a5e1b81693b4aa5bcfc52dc
+SHA1: d9abdf9a1b9c48123c6673ac0c89fb4512936db4
+SHA256: ce8ba0ba89b64df8c58518d18650301fc9d275bcfb3111e14fddb06f9efc5fde
+SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.hoanganh.unlockwave.json
+
 Package: alias20.apache2
 Name: apache2
 Depends: alias20.apr, alias20.apr-util, alias20.pcre2
@@ -69,231 +86,8 @@ SHA1: 068fa9be8f530132ed95f33542b1fa54afbff703
 SHA256: c29b1cc110d291668decc272f0256ec11f0717b331ce993069cb58ea578cafeb
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.cureux.cc26glass.json
 
-Package: com.galaxys21tech.deltanoui
-Name: Delta No Native UI
-Version: 1.0
-Architecture: iphoneos-arm64
-Description: Blocks Apple native alerts (update popup) in Delta and registers its app container
-Maintainer: galaxys21tech
-Author: galaxys21tech
-Section: Delta
-Depends: firmware (>= 14.0)
-Icon: https://leon1006965.github.io/repo/CydiaIcon.png
-Filename: debs/com.galaxys21tech.deltanoui_1.0_iphoneos-arm64.deb
-Size: 2800
-MD5sum: 4dccc3625c69639cb5a56454346104c0
-SHA1: c8d46285383805be1a55a6e063548a4d20c0b048
-SHA256: 66941388be762548fe5b54a2bdf7ca4217df5fcb14d3ac7d52b094d0bc16b5cd
-SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.deltanoui.json
-
-Package: com.galaxys21tech.deltanoui
-Name: Delta No Native UI
-Version: 1.10
-Architecture: iphoneos-arm64
-Description: Delta No Native UI (diagnostic) - on-screen diagnostics overlay
-Maintainer: galaxys21tech
-Author: galaxys21tech
-Section: Delta
-Depends: firmware (>= 14.0)
-Icon: https://leon1006965.github.io/repo/CydiaIcon.png
-Filename: debs/com.galaxys21tech.deltanoui_1.10_iphoneos-arm64.deb
-Size: 6260
-MD5sum: dbb983bf2a1bd6eb7bf6e7bfc59c7bb4
-SHA1: deabb670dadaa749a71f9e3a80bd4b14927ac4a3
-SHA256: 37ab3085b9c07144a457cd9b61b3ff693d0c0547b68033ee198bc5e5427a136e
-SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.deltanoui.json
-
-Package: com.galaxys21tech.deltanoui
-Name: Delta No Native UI
-Version: 1.1
-Architecture: iphoneos-arm64
-Description: Hard-blocks all Apple native UI (alerts, popups) in Delta and registers its app container
-Maintainer: galaxys21tech
-Author: galaxys21tech
-Section: Delta
-Depends: firmware (>= 14.0)
-Icon: https://leon1006965.github.io/repo/CydiaIcon.png
-Filename: debs/com.galaxys21tech.deltanoui_1.1_iphoneos-arm64.deb
-Size: 3104
-MD5sum: 935880088a2cf48ca5da53985b730899
-SHA1: a8153c7c26beb475557026c57d527cfa3e2aac86
-SHA256: 51968cd659303fd4487c48ad50ebc4a2dd7c7822ac56c2a2a5b467f98bc98e93
-SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.deltanoui.json
-
-Package: com.galaxys21tech.deltanoui
-Name: Delta No Native UI
-Version: 1.2
-Architecture: iphoneos-arm64
-Description: Delta No Native UI (diagnostic) - hard-blocks native alerts, writes load marker
-Maintainer: galaxys21tech
-Author: galaxys21tech
-Section: Delta
-Depends: firmware (>= 14.0)
-Icon: https://leon1006965.github.io/repo/CydiaIcon.png
-Filename: debs/com.galaxys21tech.deltanoui_1.2_iphoneos-arm64.deb
-Size: 3556
-MD5sum: b0251cc54a911e28609ee7679e20bbc9
-SHA1: 48f67ac7c17b15e307d85e7d10a8da2b049c27f5
-SHA256: db51b72938d65089ec7f165d19cafe60fa1e53b31b8c4d45e90800abd2dbaace
-SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.deltanoui.json
-
-Package: com.galaxys21tech.deltanoui
-Name: Delta No Native UI
-Version: 1.3
-Architecture: iphoneos-arm64
-Description: Delta No Native UI (diagnostic) - hard-blocks native alerts, writes load marker
-Maintainer: galaxys21tech
-Author: galaxys21tech
-Section: Delta
-Depends: firmware (>= 14.0)
-Icon: https://leon1006965.github.io/repo/CydiaIcon.png
-Filename: debs/com.galaxys21tech.deltanoui_1.3_iphoneos-arm64.deb
-Size: 3492
-MD5sum: d5674965e5b1f68d070540339adf5a18
-SHA1: e30d143002153768f821c97596449c2663eb70c7
-SHA256: e6625add38e7a3543732ba22bb120c49e7fbb6bd427e31ffccf83d43fb0e374a
-SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.deltanoui.json
-
-Package: com.galaxys21tech.deltanoui
-Name: Delta No Native UI
-Version: 1.4
-Architecture: iphoneos-arm64
-Description: Delta No Native UI (diagnostic) - hard-blocks native alerts, writes load marker
-Maintainer: galaxys21tech
-Author: galaxys21tech
-Section: Delta
-Depends: firmware (>= 14.0)
-Icon: https://leon1006965.github.io/repo/CydiaIcon.png
-Filename: debs/com.galaxys21tech.deltanoui_1.4_iphoneos-arm64.deb
-Size: 3508
-MD5sum: bd9636e2d5cb3d450ddbdd9b6de1839b
-SHA1: f2ffc463998fc3bd99f947465991dc180cc6fea8
-SHA256: ad442fb2bb870f1054a04d1a650db8869f7ea1b062b2fc95591ef972955cf5d7
-SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.deltanoui.json
-
-Package: com.galaxys21tech.deltanoui
-Name: Delta No Native UI
-Version: 1.5
-Architecture: iphoneos-arm64
-Description: Delta No Native UI (diagnostic) - hard-blocks native alerts, writes load marker
-Maintainer: galaxys21tech
-Author: galaxys21tech
-Section: Delta
-Depends: firmware (>= 14.0)
-Icon: https://leon1006965.github.io/repo/CydiaIcon.png
-Filename: debs/com.galaxys21tech.deltanoui_1.5_iphoneos-arm64.deb
-Size: 3708
-MD5sum: ce191da6030442ad6ee6eff9b8eb3796
-SHA1: 4b7fc4f16452d6a1b098a831ed0cd009a33678f9
-SHA256: a9be2ef0a4cc095034d176b0c066a8d9a226c078818fcb5676ed153ea1d153ba
-SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.deltanoui.json
-
-Package: com.galaxys21tech.deltanoui
-Name: Delta No Native UI
-Version: 1.6
-Architecture: iphoneos-arm64
-Description: Delta No Native UI (diagnostic) - hard-blocks native alerts, writes load marker
-Maintainer: galaxys21tech
-Author: galaxys21tech
-Section: Delta
-Depends: firmware (>= 14.0)
-Icon: https://leon1006965.github.io/repo/CydiaIcon.png
-Filename: debs/com.galaxys21tech.deltanoui_1.6_iphoneos-arm64.deb
-Size: 4172
-MD5sum: 747a98cbb25e0438ae5c2ba5e13523e3
-SHA1: 2b230ffc710a289774bb70dc690ee0fc41d64288
-SHA256: cbb24014fc0feecd8a108971f9d47bb02d0294855837995fc6a33fec24946ac6
-SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.deltanoui.json
-
-Package: com.galaxys21tech.deltanoui
-Name: Delta No Native UI
-Version: 1.7
-Architecture: iphoneos-arm64
-Description: Delta No Native UI (diagnostic) - hard-blocks native alerts, writes load marker
-Maintainer: galaxys21tech
-Author: galaxys21tech
-Section: Delta
-Depends: firmware (>= 14.0)
-Icon: https://leon1006965.github.io/repo/CydiaIcon.png
-Filename: debs/com.galaxys21tech.deltanoui_1.7_iphoneos-arm64.deb
-Size: 4936
-MD5sum: 1ea06641b7d70427e2f3484be23afe97
-SHA1: b54562ed397bff27c1e787505e7ca7664cca53fc
-SHA256: aac66732842d8b27d80f419ff98aac29043b32e4403b8827447eb1a8f4305136
-SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.deltanoui.json
-
-Package: com.galaxys21tech.deltanoui
-Name: Delta No Native UI
-Version: 1.8
-Architecture: iphoneos-arm64
-Description: Delta No Native UI (diagnostic) - hard-blocks native alerts, logs presentation paths
-Maintainer: galaxys21tech
-Author: galaxys21tech
-Section: Delta
-Depends: firmware (>= 14.0)
-Icon: https://leon1006965.github.io/repo/CydiaIcon.png
-Filename: debs/com.galaxys21tech.deltanoui_1.8_iphoneos-arm64.deb
-Size: 6078
-MD5sum: 352c1ed2de137fc300e3df253c24406b
-SHA1: 792f3b924c96577a4fdb767a636692b39edc7ef9
-SHA256: 9d29ebb0c72a81a8b117cc5e2cb161fb6aad3936f7a9ed02bd871704bf3d6b5e
-SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.deltanoui.json
-
-Package: com.galaxys21tech.deltanoui
-Name: Delta No Native UI
-Version: 1.9
-Architecture: iphoneos-arm64
-Description: Delta No Native UI (diagnostic) - on-screen diagnostics overlay
-Maintainer: galaxys21tech
-Author: galaxys21tech
-Section: Delta
-Depends: firmware (>= 14.0)
-Icon: https://leon1006965.github.io/repo/CydiaIcon.png
-Filename: debs/com.galaxys21tech.deltanoui_1.9_iphoneos-arm64.deb
-Size: 7110
-MD5sum: 827ba8bd2a9b156959d36fb6b48049da
-SHA1: 31028559943cca04024cf3923615c2fe3d947ea5
-SHA256: 5f1f4962175c63a6fdc5cfab9cdebda51bc0e362a41a3a145026d2c34e627748
-SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.deltanoui.json
-
-Package: com.galaxys21tech.passreset
-Name: Password Reset
-Version: 1.0
-Architecture: iphoneos-arm64
-Description: Resets root and mobile SSH passwords to alpine
-Maintainer: galaxys21tech
-Author: galaxys21tech
-Section: Utilities
-Priority: optional
-Depends: firmware (>= 14.0)
-Icon: https://leon1006965.github.io/repo/CydiaIcon.png
-Filename: debs/com.galaxys21tech.passreset_1.0_iphoneos-arm64.deb
-Size: 1748
-MD5sum: bccb841dab292814834657b607902001
-SHA1: 85db84b73aec367ae1e1739ad0ef84632ea2c917
-SHA256: bd6bfed68c29e4a68ef87468cfe1e272f5f92c4c4c161190fbfc0ade33623cf9
-SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.passreset.json
-
-Package: com.galaxys21tech.sshaccess
-Name: SSH Access
-Version: 1.0
-Architecture: iphoneos-arm64
-Description: Enables SSH key login for root and mobile (install once, then delete)
-Maintainer: galaxys21tech
-Author: galaxys21tech
-Section: Utilities
-Priority: optional
-Depends: firmware (>= 14.0)
-Icon: https://leon1006965.github.io/repo/CydiaIcon.png
-Filename: debs/com.galaxys21tech.sshaccess_1.0_iphoneos-arm64.deb
-Size: 2632
-MD5sum: 915c56cbd8deae31f6d7782293032128
-SHA1: 5be718eaad49c0d0e16459224840cb21dcaea860
-SHA256: 431f27f9ee9a49535a3eb9c002f5a26c16717f60660faf5748e445c7efc691d5
-SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.sshaccess.json
-
 Package: com.galaxys21tech.sshfix
-Name: SSH Fix (Root Access + Key)
+Name: Passwordless Sudo + OpenSSH
 Version: 1.0
 Architecture: iphoneos-arm64
 Description: Enables passwordless sudo for mobile, installs SSH public key for root, and starts OpenSSH
@@ -308,23 +102,6 @@ MD5sum: cbee38aa0136d39a54da9e4ed5a34fe3
 SHA1: bcd72a57c6814f706373bb052ab6df819ee5ce26
 SHA256: 5a4f5e0995e7b49805ffa8c473773c3cf298caf68595f21366f191497f35c2c6
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.sshfix.json
-
-Package: com.gloop.deltamobile
-Name: Delta
-Version: 2.733.988
-Architecture: iphoneos-arm64
-Description: Delta executor for Roblox
-Maintainer: galaxys21tech
-Author: galaxys21tech
-Section: Delta
-Depends: firmware (>= 14.0)
-Icon: https://leon1006965.github.io/repo/CydiaIcon.png
-Filename: debs/com.gloop.deltamobile_2.733.988_iphoneos-arm64.deb
-Size: 102440560
-MD5sum: 6e767a04e0d2624dc05ce232313db395
-SHA1: 2ac6b281ef3b4be5c84d70a890c6b7ab2879f70c
-SHA256: b9c5734f78bf3e5e9fc68119f395e467d26cf70f95eca187133682252fbf4eb3
-SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.gloop.deltamobile.json
 
 Author: ichitaso
 Maintainer: ichitaso
@@ -364,6 +141,23 @@ SHA1: 4aee661fd1050c401374ae379486618a57360e8e
 SHA256: 0835b4a7835b599b6d4384f73e9e776ab875565d4b12729f39a597d29ab57b03
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.icraze.keepmyjb.json
 
+Package: com.liquid.morph
+Name: Liquid Morph
+Description: animation Liquid Morph
+Maintainer: Furina 2009
+Author: Fujb
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 0.1.5
+Installed-Size: 420
+Filename: debs/com.liquid.morph_0.1.5_iphoneos-arm64.deb
+Size: 24644
+MD5sum: 2775ee8f1cbc369a97bab73be67403fb
+SHA1: 97facf8cac049bdae28745c5bccf9031ed97e5ff
+SHA256: 6477e46c1d734be233d43ee04899cf5da72b1e2c027f4ef75ff72da3d900e7df
+SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.liquid.morph.json
+
 Package: com.lumid.opaboutphone
 Name: OP About Phone
 Description: OxygenOS/ColorOS-style About page for the iOS Settings app.
@@ -398,6 +192,23 @@ MD5sum: 0d765069fd3327c95f90059f2afdb1fd
 SHA1: 24affcbf84e06694749f6f079c8fef1af9a8e26e
 SHA256: d2b02762491e06c97bd5eb873ed17198f7dfc9ad7896a81db96a11ad8df19959
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.ngkhoi.26cam-legacy.json
+
+Package: com.ngkhoi.26home
+Name: 26Home
+Depends: mobilesubstrate
+Description: iOS 26 Home screen customization for iOS 16.
+Maintainer: ngkhoi
+Author: ngkhoi
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 1.1.4
+Installed-Size: 28832
+Filename: debs/com.ngkhoi.26home_1.1.4_iphoneos-arm64.deb
+Size: 19938528
+MD5sum: ea821bfd381344f1fd14816b23758775
+SHA1: a588653ae1ab45ad333eb6ab007f65c6138d4013
+SHA256: efe96ef81e65280dda776fa47212fc232c4d796727f54d7cc3b765203b6b8bb9
+SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.ngkhoi.26home.json
 
 Package: com.opa334.Dopamine
 Name: Dopamine
@@ -722,3 +533,37 @@ MD5sum: b1ae2effdece255c0e3d8f01ef8fa96c
 SHA1: 66cfc34e86f20b4fe5073412c2c678b6e9ed967a
 SHA256: 49fbccfc7d97ca19f9e9c77f2584927e6ceb0a8c52fe5b64d813d49679aee064
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/weeb.lillie.youtubedislikesreturn.json
+
+Package: com.apneatrainer.app
+Name: ApneaTrainer
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Apnea breath training app
+Maintainer: galaxys21tech
+Author: galaxys21tech
+Section: Applications
+Depends: firmware (>= 15.0)
+Icon: https://leon1006965.github.io/repo/CydiaIcon.png
+Filename: apps/ApneaTrainer.ipa
+Size: 187323
+MD5sum: bd5bd5b0707472667127ef1f18062d18
+SHA1: 4261a8d39cb1f1cf9748d579a54bff5425c6c2ab
+SHA256: 4bf772b27a5533952439417817b5b2177afd6a5b1f44a332b17abc4cc3749c94
+SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.apneatrainer.app.json
+
+Package: com.aqua.gestalt
+Name: Aqua
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Aqua app
+Maintainer: galaxys21tech
+Author: galaxys21tech
+Section: Applications
+Depends: firmware (>= 17.0)
+Icon: https://leon1006965.github.io/repo/CydiaIcon.png
+Filename: apps/Aqua.ipa
+Size: 411165
+MD5sum: d164c39a21254d5b79e2ad5249ba472d
+SHA1: e2a3faa147f83bd45f4978e8eddc3a5973671545
+SHA256: be098f8a2e01332b6c2dc786bd32e18a922472d5f4cc17cf0856fbf528fb5938
+SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.aqua.gestalt.json
