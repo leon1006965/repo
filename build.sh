@@ -90,6 +90,20 @@ for deb in sorted(os.listdir(debs_dir)):
     f["Depiction"] = dep_url
     f["SileoDepiction"] = dep_url
 
+    if "Tag" not in f:
+        arch = f.get("Architecture", "")
+        dep = f.get("Depends", "")
+        if "firmware (>= 15.0)" in dep:
+            f["Tag"] = "purpose::tweak, compatible_min::ios15.0"
+        elif "firmware (>= 14.0)" in dep:
+            f["Tag"] = "purpose::tweak, compatible_min::ios14.0"
+        elif "firmware (>= 13.0)" in dep:
+            f["Tag"] = "purpose::tweak, compatible_min::ios13.0"
+        elif arch == "iphoneos-arm64":
+            f["Tag"] = "purpose::tweak, compatible_min::ios14.0"
+        else:
+            f["Tag"] = "purpose::tweak, compatible_min::ios12.0"
+
     name = f.get("Name", pkg)
     author = f.get("Author", f.get("Maintainer", "Unknown"))
     desc = f.get("Description", "No description provided.")

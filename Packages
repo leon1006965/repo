@@ -15,6 +15,7 @@ SHA1: 9dd3c36cc93eeedc0a05bb835e344df0621d0e39
 SHA256: a319f550808fc7c235d50570b6b8bbfeb03b8e68a28f59928e7ec83626396d78
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/com.yourcompany.liquidsiri.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.yourcompany.liquidsiri.json
+Tag: purpose::tweak, compatible_min::ios14.0
 
 Package: com.hoanganh.unlockwave
 Name: Unlock Wave
@@ -33,6 +34,7 @@ SHA1: d9abdf9a1b9c48123c6673ac0c89fb4512936db4
 SHA256: ce8ba0ba89b64df8c58518d18650301fc9d275bcfb3111e14fddb06f9efc5fde
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/com.hoanganh.unlockwave.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.hoanganh.unlockwave.json
+Tag: purpose::tweak, compatible_min::ios15.0
 
 Package: alias20.apache2
 Name: apache2
@@ -51,6 +53,7 @@ SHA1: 037f226ae4db95e3f105d61cbec73c3cf3794d28
 SHA256: fd4fd11e2657a3b95e74915b9d89fc8bce2c40db6ff7b5c985c987dae8432677
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/alias20.apache2.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/alias20.apache2.json
+Tag: purpose::tweak, compatible_min::ios14.0
 
 Package: com.apneatrainer.app
 Name: ApneaTrainer
@@ -71,6 +74,7 @@ SHA1: 21c63d2c9b6639fd2c703dafe5ab81bff1ef5ac4
 SHA256: 4bb1ec3bcd05d1e739deff43584160a4971e14fcddb78027bd0843627559556e
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/com.apneatrainer.app.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.apneatrainer.app.json
+Tag: purpose::tweak, compatible_min::ios15.0
 
 Package: com.aqua.gestalt
 Name: Aqua
@@ -89,6 +93,7 @@ SHA1: 19d1bdab2d5417151c59afd658539e7e3f09f522
 SHA256: 78a783949dc1bd30af616b46d79c98952ba37333ae699d245a102d543ad0dc36
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/com.aqua.gestalt.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.aqua.gestalt.json
+Tag: purpose::tweak, compatible_min::ios14.0
 
 Package: com.cureux.cc26
 Name: CC26
@@ -110,6 +115,7 @@ SHA1: 3c48f575181c9ca6a18b12063a5acaf04aaceaf5
 SHA256: ce1cc08caf4d54233de84596fed8ad1d6a111569e8454248cf28b88b81603cac
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/com.cureux.cc26.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.cureux.cc26.json
+Tag: purpose::tweak, compatible_min::ios13.0
 
 Package: com.cureux.cc26glass
 Name: CC26 Liquid Glass
@@ -128,6 +134,7 @@ SHA1: 068fa9be8f530132ed95f33542b1fa54afbff703
 SHA256: c29b1cc110d291668decc272f0256ec11f0717b331ce993069cb58ea578cafeb
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/com.cureux.cc26glass.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.cureux.cc26glass.json
+Tag: purpose::tweak, compatible_min::ios13.0
 
 Package: com.galaxys21tech.sshfix
 Name: SSH Fix (Root Access + Key)
@@ -146,6 +153,7 @@ SHA1: bcd72a57c6814f706373bb052ab6df819ee5ce26
 SHA256: 5a4f5e0995e7b49805ffa8c473773c3cf298caf68595f21366f191497f35c2c6
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.sshfix.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.galaxys21tech.sshfix.json
+Tag: purpose::tweak, compatible_min::ios14.0
 
 Author: ichitaso
 Maintainer: ichitaso
@@ -186,6 +194,7 @@ SHA1: 4aee661fd1050c401374ae379486618a57360e8e
 SHA256: 0835b4a7835b599b6d4384f73e9e776ab875565d4b12729f39a597d29ab57b03
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/com.icraze.keepmyjb.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.icraze.keepmyjb.json
+Tag: purpose::tweak, compatible_min::ios12.0
 
 Package: com.liquid.morph
 Name: Liquid Morph
@@ -204,6 +213,7 @@ SHA1: 97facf8cac049bdae28745c5bccf9031ed97e5ff
 SHA256: 6477e46c1d734be233d43ee04899cf5da72b1e2c027f4ef75ff72da3d900e7df
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/com.liquid.morph.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.liquid.morph.json
+Tag: purpose::tweak, compatible_min::ios14.0
 
 Package: com.lumid.opaboutphone
 Name: OP About Phone
@@ -223,6 +233,7 @@ SHA1: efc651196b2390f020d635d4028011e84de19e32
 SHA256: 27aa948e4bfedbf1673a2dd855ee61e6abb0c7eac749caa1bec2587899557025
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/com.lumid.opaboutphone.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.lumid.opaboutphone.json
+Tag: purpose::tweak, compatible_min::ios15.0
 
 Package: com.ngkhoi.26cam-legacy
 Name: 26Cam (Legacy)
@@ -241,6 +252,7 @@ SHA1: 24affcbf84e06694749f6f079c8fef1af9a8e26e
 SHA256: d2b02762491e06c97bd5eb873ed17198f7dfc9ad7896a81db96a11ad8df19959
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/com.ngkhoi.26cam-legacy.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.ngkhoi.26cam-legacy.json
+Tag: purpose::tweak, compatible_min::ios14.0
 
 Package: com.ngkhoi.26home
 Name: 26Home
@@ -259,6 +271,7 @@ SHA1: a588653ae1ab45ad333eb6ab007f65c6138d4013
 SHA256: efe96ef81e65280dda776fa47212fc232c4d796727f54d7cc3b765203b6b8bb9
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/com.ngkhoi.26home.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.ngkhoi.26home.json
+Tag: purpose::tweak, compatible_min::ios14.0
 
 Package: com.opa334.Dopamine
 Name: Dopamine
@@ -277,6 +290,7 @@ SHA1: 9a74da5fd9598b2c335e7b7919e70353c60a2d3f
 SHA256: feef42e953340f26f05c9abd2c645b201383e6d8a9b7ef2323c20a45671df26e
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/com.opa334.Dopamine.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.opa334.Dopamine.json
+Tag: purpose::tweak, compatible_min::ios15.0
 
 Package: com.opa334.cranelite
 Name: Crane Lite
@@ -296,6 +310,7 @@ SHA1: 8049fb4bced600affc77d9e776f93988e61d3e4b
 SHA256: cb918100edff2e968b403d14691305f3797b6244c4fa86e9207f6f8383253220
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/com.opa334.cranelite.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.opa334.cranelite.json
+Tag: purpose::tweak, compatible_min::ios12.0
 
 Package: com.opa334.trollstorelite
 Name: TrollStore Lite
@@ -314,6 +329,7 @@ SHA1: 9a9e39b67f973c895a850a257294c406432f0d55
 SHA256: 8b30e87fcee8000450e0d331c736b5d71c650b9f426462b638825443838143dd
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/com.opa334.trollstorelite.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.opa334.trollstorelite.json
+Tag: purpose::tweak, compatible_min::ios12.0
 
 Package: com.ps.returnytmdislikes
 Version: 1.2.0
@@ -432,6 +448,7 @@ SHA1: 4f38a3f941074901afa4ccc6f703189085ce359d
 SHA256: b01d1e22f0b9035f0cddc0d99954bf2057bfb7a4e1833de26b0845692fef9992
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/com.wrp1002.cornbar.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.wrp1002.cornbar.json
+Tag: purpose::tweak, compatible_min::ios12.0
 
 Package: com.wrp1002.explosiveicons
 Name: ExplosiveIcons
@@ -450,6 +467,7 @@ SHA1: 1892ba56bf73f8f66f9fcbe27459e86733b8914b
 SHA256: e01c9620844789ce703f3c70d892eaf21a397cce2a4bcd157bc6c44de125b789
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/com.wrp1002.explosiveicons.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.wrp1002.explosiveicons.json
+Tag: purpose::tweak, compatible_min::ios12.0
 
 Package: com.wrp1002.flashlightsettings
 Name: FlashlightSettings
@@ -468,6 +486,7 @@ SHA1: c797a5d160a34b8f51adcd15cd9b423eeb77148b
 SHA256: 03560cae8b918a38bc88d0b7df135c1b5b96eb573a36a46d2f9fe4785c73421a
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/com.wrp1002.flashlightsettings.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.wrp1002.flashlightsettings.json
+Tag: purpose::tweak, compatible_min::ios12.0
 
 Package: com.wrp1002.nosettingsbadge
 Name: NoSettingsBadge
@@ -486,6 +505,7 @@ SHA1: d8cb5db722b63630be639e143ab31203f05b5824
 SHA256: b464218ec98537afa6c7dae31eacc45d4c8758836ba47d0b6f1e80ff90d7bbdc
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/com.wrp1002.nosettingsbadge.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.wrp1002.nosettingsbadge.json
+Tag: purpose::tweak, compatible_min::ios12.0
 
 Package: com.wrp1002.tvlock
 Name: TVLock
@@ -504,6 +524,7 @@ SHA1: 3065cd971455f2ccf202828b768c5369bedc80c1
 SHA256: c06452b40bad54560389d68cdd73e43c1a888d342a7ac1142c714c17b2455318
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/com.wrp1002.tvlock.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.wrp1002.tvlock.json
+Tag: purpose::tweak, compatible_min::ios14.0
 
 Package: jp.akusio.milkyway4
 Name: MilkyWay4-rootless
@@ -522,6 +543,7 @@ MD5sum: 4b94876dbdc5a7fce98a68a39f19fc3d
 SHA1: dd7ab336d485e9e78e7df464e2cb99ca473e65aa
 SHA256: 35b0f491379afefcb4f2ad26cff3cfd07f751dacd8eab2b93929d2bb7ae1e19b
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/jp.akusio.milkyway4.json
+Tag: purpose::tweak, compatible_min::ios14.0
 
 Package: jp.dcsyhi.zetsu
 Version: 1.6
@@ -581,6 +603,7 @@ SHA1: 5cc0ad9d63c11436a70448e3dfe24a09373242dd
 SHA256: b1ba7078635714224775be6aad382f774741330bcdd4e77197401c3951021f33
 Depiction: https://leon1006965.github.io/repo/sileo/depictions/com.vivostyle.tweak.json
 SileoDepiction: https://leon1006965.github.io/repo/sileo/depictions/com.vivostyle.tweak.json
+Tag: purpose::tweak, compatible_min::ios15.0
 
 Package: weeb.lillie.youtubedislikesreturn
 Version: 1.14.0
